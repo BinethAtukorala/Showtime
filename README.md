@@ -1,4 +1,4 @@
-# Showcase bot
+# Showcase bot (In Development)
 
 A Discord bot for managing and approving showcases of members' projects in the RCCS Community Server
 
